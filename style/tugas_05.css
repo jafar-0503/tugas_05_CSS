@@ -1,0 +1,36 @@
+header{
+  background-color: black;
+  padding: 5px;
+  margin: 1px;
+}
+
+.menu{
+  color: white;
+}
+
+div.slider-div{
+  padding: 5px;
+  margin: 1px;
+}
+
+img.slider{
+  width: 45%;
+}
+
+p{
+  text-align: justify;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+
+.footer{
+  text-align: center;
+}
+
+.footer-alamat{
+  text-align: center;
+}
